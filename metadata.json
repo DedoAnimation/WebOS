@@ -1,0 +1,6 @@
+{
+  "name": "WinWeb OS",
+  "description": "A feature-complete Windows-style operating system in the browser with File Explorer, Terminal, Notepad, Paint, Calculator, Media Player, Games, Settings, Multitasking Window Manager, and System Shell.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
